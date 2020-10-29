@@ -1,3 +1,5 @@
+Projeto está no MASTER
+
 #--DESCRIÇÃO--
 Sistema de cadastro de produtos em plataforma com persistencia em banco de dados, com as seguintes funcionalidades:
 *Insersão de dados categorias a partir de leitura de .CSV.
