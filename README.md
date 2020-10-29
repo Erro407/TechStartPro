@@ -25,11 +25,16 @@ END $$ DELIMITER ;
 
 #--TESTES--
 
-Dentro do aplicativo clicar na aba "ENVIAR", selecionar a base categorias_produtos.csv no diretorio principal da aplicação: C:\xampp\htdocs\Projeto Olist
+1.Dentro do aplicativo clicar na aba "ENVIAR", selecionar a base categorias_produtos.csv no diretorio principal da aplicação: C:\xampp\htdocs\Projeto Olist
 verificação no banco de dados se os dados foram inseridos com sucesso, tabela: tb_categorias!
-Insersão de novos produtos, testando todas as opções de categorias também verificar no banco de dados se o vinculo de herança esta correto, tabela tb_produtos.
-Vizualizar a listagem dos produtos na aba "Listar Produto", verificar se a tabela está atualizada com todos os dados inseridos na etapa anterior.
-Edição dos dados já inseridos na aba "editar Produto", realizar a edição de um produto utilizado seu codigo e vizualizar se o mesmo foi alterado com sucesso, verificar tbm nas demais bas se a alteração ocorreu com sucesso.
-Realizar a Exclusão de um registro na aba "Exluir Produto", verificar se a exclusão ocorreu com sucesso, a esclusão deve refletir nas demais abas também.
+
+2.Insersão de novos produtos, testando todas as opções de categorias também verificar no banco de dados se o vinculo de herança esta correto, tabela tb_produtos.
+
+3.Vizualizar a listagem dos produtos na aba "Listar Produto", verificar se a tabela está atualizada com todos os dados inseridos na etapa anterior.
+
+4.Edição dos dados já inseridos na aba "editar Produto", realizar a edição de um produto utilizado seu codigo e vizualizar se o mesmo foi alterado com sucesso, verificar tbm nas demais bas se a alteração ocorreu com sucesso.
+
+5.Realizar a Exclusão de um registro na aba "Exluir Produto", verificar se a exclusão ocorreu com sucesso, a esclusão deve refletir nas demais abas também.
+
 #--AMBIENTE-- Computador desktop i7, rtx 2060, ssd Sistemas operacinal Windows 10 Editor de texto Sublime Text IDE apache Bibliotecas: Bootstrap, Jquery Linguagem de programação: PHP, JS e Mysql
 
